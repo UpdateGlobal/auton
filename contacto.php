@@ -99,7 +99,7 @@
 						<h3>ESCRIBENOS TU MENSAJE</h3>
 						<input type="text" name="nombre" id="contact-form" placeholder="Nombre" required>
 						<input type="text" name="correo" id="contact-form" placeholder="Correo" required>
-						<input type="text" name="asunto" id="contact-form" placeholder="Asunto" required>
+						<input type="text" name="celular" id="contact-form" placeholder="Celular" required>
 						<textarea name="mensaje" id="contact-form" placeholder="escribe aqui tu mensaje" required id="" cols="30" rows="13"></textarea>
 						
 						<input type="submit" class="btn" value="ENVIAR COMENTARIO">
