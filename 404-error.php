@@ -112,12 +112,12 @@
 			</nav>
 			<aside class="row text-center">
 				<ul class="col full-width sociallinks">
-					<li><a href="#"><i class="fa fa-twitter"></i></a></li><!--
-					--><li><a href="#"><i class="fa fa-facebook"></i></a></li><!--
-					--><li><a href="#"><i class="fa fa-youtube"></i></a></li><!--
-					--><li><a href="#"><i class="fa fa-dribbble"></i></a></li><!--
-					--><li><a href="#"><i class="fa fa-vimeo-square"></i></a></li><!--
-					--><li><a href="#"><i class="fa fa-rss"></i></a></li>
+					<li><a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"></i></a></li><!--
+					<li><a href="https://twitter.com/login?lang=es" target="_blank"><i class="fa fa-twitter"></i></a></li><!--
+					--<li><a href="https://www.youtube.com/" target="_blank"><i class="fa fa-youtube"></i></a></li><!--
+					--<li><a href="https://dribbble.com/session/new" target="_blank"><i class="fa fa-dribbble"></i></a></li><!--
+					--li><a href="http://hotmailiniciarsesion.webnode.es/rss/" target="_blank"><i class="fa fa-rss"></i></a></li>
+					--<li><a href="https://vimeo.com/log_in" target="_blank"><i class="fa fa-vimeo-square"></i></a></li><!-->
 				</ul>
 				<div class="col full-width">
 					<p><small>© 2017 <a>Auton - Perú</a> desarrollado por <a href="http://www.update.pe" target="_blank">Update Global Marketing</a></small></p>
